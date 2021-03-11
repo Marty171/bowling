@@ -1,0 +1,10 @@
+target/
+.mvn/timing.properties
+*.iml
+.idea
+jxl.log
+*.orig
+_logs/
+.DS_Store
+# Exclude maven wrapper
+!/.mvn/wrapper/maven-wrapper.jar
